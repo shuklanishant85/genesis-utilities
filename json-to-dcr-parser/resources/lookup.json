@@ -1,0 +1,37 @@
+{
+	"lookupContentSet": {
+		"lookupContentGroups": [
+			{
+				"id": "id-file-name",
+				"lookupContent": {
+					"lookupContentItems": [
+						{
+							"key": "lookupContent1",
+							"value": "lookupContent1"
+						},
+						{
+							"key": "lookupContent2",
+							"value": "lookupContent2"
+						},
+						{
+							"key": "lookupContent3",
+							"value": "lookupContent3"
+						},
+						{
+							"key": "lookupContent4",
+							"value": "lookupContent4"
+						},
+						{
+							"key": "lookupContent5",
+							"value": "lookupContent5"
+						},
+						{
+							"key": "lookupContent6",
+							"value": "lookupContent6"
+						}
+					]
+				}
+			}
+		]
+	}
+}
